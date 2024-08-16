@@ -1,4 +1,4 @@
-**Quorumify: Java, React JS, Spring Boot, Security, JPA, MySQL**
+**Quorumify: Java, React JS, Spring Boot, Hibernate, JPA, MySQL**
 
 • Developed a 'Forum Portal' project akin to Quora, prioritizing security, featuring authentication, and role-based access levels (Admin, Moderator, Basic User), ensuring a controlled and secure user experience.
 
