@@ -1,1 +1,1 @@
-Quorumify: Java, React JS, Spring Boot, Security, JPA, MySQL
+**Quorumify: Java, React JS, Spring Boot, Security, JPA, MySQL**
